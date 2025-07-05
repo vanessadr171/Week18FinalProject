@@ -1,0 +1,10 @@
+Post and put artist
+http://localhost:8080/crochet_project/artist
+http://localhost:8080/crochet_project/artist/1
+{
+  "userName": "WonderCrochet",
+  "website": "WonderCrochet.blog",
+  "email": "allison@wonderCrochet.blog",
+  "instagram": "@theWonderCrochet"
+
+}

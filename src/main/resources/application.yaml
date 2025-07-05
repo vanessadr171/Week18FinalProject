@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    username: crochet_project
+    password: crochet_project
+    url: jdbc:mysql://localhost:3306/crochet_project
+    
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
